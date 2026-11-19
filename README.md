@@ -1,4 +1,4 @@
-# MLDS 422 Homework 5: Ariana Grande Music Data with APIs
+# Ariana Grande Music Data with APIs
 
 This project collects track data and lyrics for five Ariana Grande studio albums from two APIs, combines them into one dataset, and explores two insights about her music.
 
